@@ -6,6 +6,7 @@ BB10 sample app that shows how to use WebImageView class, a custom class that su
 This project is a combination of two different projects into one and some small modifications :
 
 1- RileyGB WebImageView ( https://github.com/RileyGB/BlackBerry10-Samples/tree/master/WebImageViewSample )
+
 2- ealejandr0 WebImageView ( https://github.com/ealejandr0/WebImageView )
 
 
